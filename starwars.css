@@ -1,0 +1,45 @@
+.cuerpo{
+    background-color:black;
+}
+
+.elimperio{
+    text-align: center;
+    background-color:red ; 
+}
+
+#darthvader{
+    font-size: 40px;
+    text-align: center;
+}
+
+.soldierimperio{
+    letter-spacing: 10px;
+    border:dashed;
+  
+}
+
+
+.losrebeldes{
+    text-align: center;
+    background-color:blue ;
+}
+
+.soldierrebeldes{
+    letter-spacing: 10px;
+    border:dashed ;
+}
+
+#luke{
+    font-style:italic ;
+}
+
+.Apoyo{
+    text-transform: uppercase;
+}
+
+.centrado{
+    margin-left:auto; 
+    margin-right: auto; 
+    display: block; 
+    width: 30%;
+}
